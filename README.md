@@ -42,3 +42,15 @@ dsa-vault/
 ├── TEMPLATE.md              <-- Blueprint for new notes
 └── README.md                <-- Master Dashboard
 Data Structures and Algorithms solutions with approach notes and complexity analysis.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ATGtyagi-star/DSA-VAULT/tree/master/0724-find-pivot-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ATGtyagi-star/DSA-VAULT/tree/master/0724-find-pivot-index) |
+<!---LeetCode Topics End-->
